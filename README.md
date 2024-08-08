@@ -94,5 +94,5 @@ Thank you for your attention!
 
 ---
 
-Feel free to use this code for any other product and share the output ;-)
+Feel free to use this code for any other product and share the output 😉
 
