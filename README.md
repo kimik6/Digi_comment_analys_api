@@ -1,6 +1,5 @@
 ### Sentiment Analysis of Digikala Comments
 
-#### Author: Kimia Kamyab
 
 ---
 
@@ -95,4 +94,5 @@ Thank you for your attention!
 
 ---
 
-This expanded README provides a comprehensive overview of your project, guiding users through its various parts and how to run it on their systems. Let me know if you need any further customization or additional sections!
+Feel free to use this code for any other product and share the output ;-)
+
