@@ -85,6 +85,7 @@ Once executed, the following page will open, functioning as shown in the example
    ```
 
 ---
+![image](https://github.com/user-attachments/assets/10a84e67-ec70-494e-9c07-c640caa47c51)
 
 ## Conclusion
 
